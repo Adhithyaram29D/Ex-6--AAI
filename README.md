@@ -1,7 +1,7 @@
 <H3>NAME: ADHITHYARAM D </H3>
 <H3>REGISTER NO: 212222230008 </H3>
 
-<H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
+<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 
 <h3>Aim:</h3>
